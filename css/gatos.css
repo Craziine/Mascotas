@@ -1,0 +1,511 @@
+@-ms-viewport
+{
+	width: 320px;
+}
+
+@-webkit-viewport
+{
+	width: 320px;
+}
+
+@-o-viewport
+{
+	width: 320px;
+}
+
+@-moz-viewport
+{
+	width: 320px;
+}
+
+@viewport
+{
+	width: 320px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 320px;
+	min-height: 479.64949999999976px;
+	border-style: none;
+	border-color: #000000;
+	padding-bottom: 0px;
+	background: #FFFFFF url("../images/background.jpg") no-repeat center center;
+}
+
+#page_position_content
+{
+	margin-bottom: -1px;
+}
+
+#u85
+{
+	z-index: 2;
+	width: 319px;
+	padding-bottom: 7px;
+}
+
+#u97-3
+{
+	z-index: 4;
+	width: 5px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 79px;
+}
+
+#u98-4
+{
+	z-index: 7;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 106px;
+}
+
+#u329-5
+{
+	z-index: 53;
+	width: 247px;
+	font-weight: bold;
+	margin-left: 42px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#pu330-15
+{
+	width: 0.01px;
+	margin-left: 35px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u330-15
+{
+	z-index: 58;
+	width: 268px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u338-3
+{
+	z-index: 73;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 158px;
+	left: 343px;
+}
+
+#pamphletu301
+{
+	z-index: 39;
+	width: 0.01px;
+	height: 265px;
+	margin-left: 17px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u311
+{
+	z-index: 40;
+	width: 271px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 220px;
+}
+
+#u312
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background-color: #DEDEDE;
+}
+
+#u312:hover
+{
+	background-image: none;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u312.PamphletThumbSelected
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background: #DEDEDE url("../images/g-raza-balineshtml-u312-a-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u313
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+	background-color: #C4C4C4;
+	left: 70px;
+}
+
+#u313:hover
+{
+	background-image: none;
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u313.PamphletThumbSelected
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background: #C4C4C4 url("../images/alimentacion-gatos-u313-a-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u314
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #999999;
+	left: 140px;
+}
+
+#u314:hover
+{
+	background-image: none;
+	border-color: #6B6B6B;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u314.PamphletThumbSelected
+{
+	border-color: #6B6B6B;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background: #999999 url("../images/gato-u314-a-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u327
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #999999;
+	left: 210px;
+}
+
+#u327:hover
+{
+	background-image: none;
+	border-color: #6B6B6B;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u327.PamphletThumbSelected
+{
+	border-color: #6B6B6B;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+	background: #999999 url("../images/gato-de-angora-de-bellos-ojos-u327-a-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u307
+{
+	position: absolute;
+	width: 269px;
+	left: 17px;
+}
+
+#u307popup
+{
+	z-index: 45;
+}
+
+#u310
+{
+	z-index: 46;
+	width: 267px;
+	height: 208px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	background: #DEDEDE url("../images/g-raza-balineshtml-u310-fr.jpg") no-repeat left top;
+	background-size: cover !important;
+}
+
+#u309
+{
+	z-index: 47;
+	width: 267px;
+	height: 208px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	background: #C4C4C4 url("../images/alimentacion-gatos-u309-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u308
+{
+	z-index: 48;
+	width: 267px;
+	height: 208px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #6B6B6B;
+	margin-right: -10000px;
+	position: relative;
+	background: #999999 url("../images/gato-u308-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u328
+{
+	z-index: 49;
+	width: 267px;
+	height: 208px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #6B6B6B;
+	margin-right: -10000px;
+	position: relative;
+	background: #999999 url("../images/gato-de-angora-de-bellos-ojos-u328-fr.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u337-3
+{
+	z-index: 50;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 126px;
+	left: 214px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u236
+{
+	z-index: 11;
+	width: 250px;
+	margin-left: 39px;
+	margin-top: 20px;
+}
+
+#u166
+{
+	z-index: 12;
+	width: 250px;
+	margin-right: -10000px;
+}
+
+#u169-5
+{
+	z-index: 13;
+	width: 99px;
+	min-height: 94px;
+	padding-top: 6px;
+	margin-right: -10000px;
+	margin-top: 58px;
+	left: 151px;
+}
+
+#u169-5:hover
+{
+	padding-top: 6px;
+	padding-bottom: 0px;
+	min-height: 94px;
+	margin: 58px -10000px 0px 0px;
+}
+
+#u169-5.MuseLinkActive
+{
+	padding-top: 6px;
+	padding-bottom: 0px;
+	min-height: 94px;
+	margin: 58px -10000px 0px 0px;
+}
+
+#u167-5
+{
+	z-index: 18;
+	width: 99px;
+	min-height: 94px;
+	padding-top: 5px;
+	margin-right: -10000px;
+	margin-top: 34px;
+}
+
+#u167-5:hover
+{
+	padding-top: 5px;
+	padding-bottom: 0px;
+	min-height: 94px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u167-5.MuseLinkActive
+{
+	padding-top: 5px;
+	padding-bottom: 0px;
+	min-height: 94px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u168-5
+{
+	z-index: 23;
+	width: 94px;
+	min-height: 96px;
+	padding-top: 5px;
+	margin-right: -10000px;
+	left: 89px;
+}
+
+#u168-5:hover
+{
+	padding-top: 5px;
+	padding-bottom: 0px;
+	min-height: 96px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u168-5.MuseLinkActive
+{
+	padding-top: 5px;
+	padding-bottom: 0px;
+	min-height: 96px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u170-5
+{
+	z-index: 28;
+	width: 99px;
+	min-height: 95px;
+	padding-top: 5px;
+	margin-right: -10000px;
+	margin-top: 133px;
+	left: 112px;
+}
+
+#u170-5:hover
+{
+	padding-top: 5px;
+	padding-bottom: 0px;
+	min-height: 95px;
+	margin: 133px -10000px 0px 0px;
+}
+
+#u170-5.MuseLinkActive
+{
+	padding-top: 5px;
+	padding-bottom: 0px;
+	min-height: 95px;
+	margin: 133px -10000px 0px 0px;
+}
+
+#u172-5
+{
+	z-index: 33;
+	width: 99px;
+	min-height: 95px;
+	padding-top: 5px;
+	margin-right: -10000px;
+	margin-top: 126px;
+	left: 20px;
+}
+
+#u172-5:hover
+{
+	padding-top: 5px;
+	padding-bottom: 0px;
+	min-height: 95px;
+	margin: 126px -10000px 0px 0px;
+}
+
+#u172-5.MuseLinkActive
+{
+	padding-top: 5px;
+	padding-bottom: 0px;
+	min-height: 95px;
+	margin: 126px -10000px 0px 0px;
+}
+
+#u171
+{
+	z-index: 38;
+	width: 76px;
+	height: 73px;
+	margin-right: -10000px;
+	margin-top: 80px;
+	left: 81px;
+}
+
+#u88
+{
+	z-index: 3;
+	width: 319px;
+	height: 52px;
+	margin-top: 71px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

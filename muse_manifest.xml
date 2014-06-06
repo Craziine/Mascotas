@@ -1,0 +1,63 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_b-p_gina-maestra.css" crc="255842881" ref="index"/>
+    <file name="master_a-p_gina-maestra.css" crc="3880875102" ref="peces:hamsters:aves:perros:gatos"/>
+    <file name="peces.css" crc="3835089817" ref="peces"/>
+    <file name="index.css" crc="3873881856" ref="index"/>
+    <file name="hamsters.css" crc="3769456011" ref="hamsters"/>
+    <file name="aves.css" crc="289022671" ref="aves"/>
+    <file name="perros.css" crc="3863938192" ref="perros"/>
+    <file name="gatos.css" crc="4140128172" ref="gatos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gatos:perros:aves:peces:hamsters"/>
+    <file name="museutils.js" crc="4291592202" ref="index:gatos:perros:aves:peces:hamsters"/>
+    <file name="pie.js" crc="3827607177" ref="index:gatos"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:gatos:perros:aves:peces:hamsters"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:gatos:perros:aves:peces:hamsters"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="gatos:peces"/>
+    <file name="webpro.js" crc="3903299128" ref="gatos:peces"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="gatos:peces"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="gatos:peces"/>
+    <file name="touchswipe.js" crc="4156838003" ref="gatos:peces"/>
+  </folder>
+  <folder name="images">
+    <file name="background.jpg" crc="4213711491" ref="index:gatos:perros:aves:hamsters"/>
+    <file name="u189-4.png" crc="3966485386" ref="index"/>
+    <file name="mascotas-u196-fr.jpg" crc="4002873746" ref="index"/>
+    <file name="mascotas.jpg" crc="4076341869" ref="index"/>
+    <file name="u98-4.png" crc="3966485386" ref="gatos:perros:aves:peces:hamsters"/>
+    <file name="home.png" crc="4231497163" ref="gatos"/>
+    <file name="u277-27.png" crc="101721534" ref="hamsters"/>
+    <file name="g-raza-balineshtml-u312-a-fr.jpg" crc="3873215817" ref="gatos"/>
+    <file name="burbujas.gif" crc="4060812033" ref="peces"/>
+    <file name="u286-34.png" crc="4149300507" ref="peces"/>
+    <file name="u359-4.png" crc="262458063" ref="perros"/>
+    <file name="u375-4.png" crc="139768675" ref="perros"/>
+    <file name="u360-5.png" crc="4065898189" ref="perros"/>
+    <file name="aves.jpg" crc="3999594200" ref="aves"/>
+    <file name="alimentacion-gatos-u313-a-fr.jpg" crc="4262025776" ref="gatos"/>
+    <file name="gato-u314-a-fr.jpg" crc="3788946937" ref="gatos"/>
+    <file name="gato-de-angora-de-bellos-ojos-u327-a-fr.jpg" crc="4106176529" ref="gatos"/>
+    <file name="g-raza-balineshtml-u310-fr.jpg" crc="4237583657" ref="gatos"/>
+    <file name="alimentacion-gatos-u309-fr.jpg" crc="4024191516" ref="gatos"/>
+    <file name="gato-u308-fr.jpg" crc="223222081" ref="gatos"/>
+    <file name="gato-de-angora-de-bellos-ojos-u328-fr.jpg" crc="4145529313" ref="gatos"/>
+    <file name="home-u171-fr.png" crc="529719533" ref="gatos"/>
+    <file name="pez3-u442-a-fr.jpg" crc="4168701685" ref="peces"/>
+    <file name="pez1-u443-a-fr.jpg" crc="50871942" ref="peces"/>
+    <file name="pez4-u444-a-fr.jpg" crc="3952276217" ref="peces"/>
+    <file name="pez2-u456-a-fr.jpg" crc="4126622865" ref="peces"/>
+    <file name="pez3.jpg" crc="374017647" ref="peces"/>
+    <file name="pez1.jpg" crc="4046241017" ref="peces"/>
+    <file name="pez4.jpg" crc="490204036" ref="peces"/>
+    <file name="pez2.jpg" crc="3798268509" ref="peces"/>
+  </folder>
+  <file name="index.html" crc="4152620488" mt="1402022299864" redirect="true"/>
+  <file name="gatos.html" crc="122687190" mt="1402076963439" redirect="true"/>
+  <file name="perros.html" crc="396661688" mt="1402076963458" redirect="true"/>
+  <file name="aves.html" crc="356573495" mt="1402076963469" redirect="true"/>
+  <file name="peces.html" crc="4281820343" mt="1402076963489" redirect="true"/>
+  <file name="hamsters.html" crc="108322908" mt="1402076963504" redirect="true"/>
+</manifest>
